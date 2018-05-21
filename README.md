@@ -5,3 +5,4 @@
 - [Master your tools ](http://muratbuffalo.blogspot.ca/2018/03/master-your-tools.html)
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/)
 - [Effects of CPU caches](https://medium.com/@minimarcel/effect-of-cpu-caches-57db81490a7f)
+- [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html)
